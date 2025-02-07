@@ -18,7 +18,7 @@ git clone https://github.com/saayxee/sysmon
 cd sysmon
 ```
 
-**Install termcolor**  
+**Install dependencies**  
 
 ```bash
 pip install termcolor ipaddress psutil screeninfo
